@@ -1,4 +1,4 @@
-# copy file
+# text replace
 
 > A copyfile plugin for ESDoc.
 
